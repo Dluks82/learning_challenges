@@ -11,7 +11,7 @@ Requisitos: https://efficient-sloth-d85.notion.site/Desafio-01-2d48608f47644519a
 Versões
 
 - Node: v21.5.0
-- csv-parser: ^3.0.0
+- csv-parse: ^5.5.3
 
 ## Como executar:
 
