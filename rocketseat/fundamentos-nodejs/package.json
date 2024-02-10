@@ -1,0 +1,13 @@
+{
+  "name": "fundamentos-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "https://efficient-sloth-d85.notion.site/Desafio-01-2d48608f47644519a408b438b52d913f",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "dluks82@gmail.com",
+  "license": "MIT"
+}
