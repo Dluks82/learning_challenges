@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "dluks82@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.5.3"
+  }
 }
